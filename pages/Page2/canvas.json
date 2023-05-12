@@ -13,7 +13,7 @@
           "detachFromLayout": true,
           "widgetId": "0",
           "topRow": 0,
-          "bottomRow": 490,
+          "bottomRow": 500,
           "containerStyle": "none",
           "snapRows": 113,
           "parentRowSpace": 1,
@@ -34,7 +34,7 @@
                 "boolean"
               ],
               "topRow": 45,
-              "bottomRow": 49,
+              "bottomRow": 50,
               "parentRowSpace": 10,
               "type": "CHECKBOX_WIDGET",
               "alignWidget": "LEFT",
@@ -63,17 +63,19 @@
               "accentColor": "{{appsmith.theme.colors.primaryColor}}",
               "minWidth": 450,
               "isVisible": true,
-              "label": "Hohohosss",
+              "label": "Hohohossssdfsdfaaa",
               "version": 1,
               "parentId": "0",
               "renderMode": "CANVAS",
               "isLoading": false,
               "mobileTopRow": 45,
               "responsiveBehavior": "fill",
+              "originalTopRow": 45,
               "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
               "mobileLeftColumn": 10,
               "defaultCheckedState": true,
               "maxDynamicHeight": 9000,
+              "originalBottomRow": 49,
               "minDynamicHeight": 4
             }
           ]
