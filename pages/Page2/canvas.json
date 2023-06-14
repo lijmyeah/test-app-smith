@@ -19,7 +19,7 @@
           "parentRowSpace": 1,
           "type": "CANVAS_WIDGET",
           "canExtend": true,
-          "version": 79,
+          "version": 80,
           "minHeight": 1150,
           "parentColumnSpace": 1,
           "dynamicBindingPathList": [],
@@ -75,7 +75,7 @@
               "mobileLeftColumn": 10,
               "defaultCheckedState": true,
               "maxDynamicHeight": 9000,
-              "originalBottomRow": 49,
+              "originalBottomRow": 50,
               "minDynamicHeight": 4
             }
           ]
