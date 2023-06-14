@@ -19,7 +19,7 @@
           "parentRowSpace": 1,
           "type": "CANVAS_WIDGET",
           "canExtend": true,
-          "version": 79,
+          "version": 80,
           "minHeight": 1292,
           "dynamicTriggerPathList": [],
           "parentColumnSpace": 1,
@@ -56,7 +56,7 @@
                   "key": "borderRadius"
                 }
               ],
-              "text": "Submit Haha",
+              "text": "Submit Hahahehe",
               "isDisabled": false,
               "key": "zw9zya613b",
               "isDeprecated": false,
